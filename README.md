@@ -1,5 +1,5 @@
 # Hotel Reservations Cancelation Prediction Model
-# Machine-Learning-Project
+# Machine Learning Final Project
 
 ![cover](https://github.com/elinorbengayev/Hotel-Reservations-Cancelation-Prediction/blob/main/image.png)
 
