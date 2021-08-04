@@ -1,20 +1,20 @@
-# Hotel-Booking-Cancellation-Prediction - Machine-Learning-Project
+# Hotel Reservations Cancelation Prediction Model
+# Machine-Learning-Project
 
-![cover](https://github.com/DeniseBishevsky/Hotel-Booking-Cancellation-Prediction/blob/main/image.png)
+![cover](https://github.com/elinorbengayev/Hotel-Reservations-Cancelation-Prediction/blob/main/image.png)
 
 
 You can find the final project here:
 
-https://denisebishevsky.github.io/Hotel-Booking-Cancellation-Prediction/Hotel-Booking-Cancellation.html
+https://github.com/elinorbengayev/Hotel-Reservations-Cancelation-Prediction/blob/main/docs/Hotel-Booking-Cancellation.html
 
-
-Details:<br>
-Course Name: Intro to Machine Learning<br>
+Submission details:<br>
+Course Name: Introduction to Machine Learning<br>
 Faculty: Faculty of Engineering, Tel-Aviv University<br>
-Name: Denise Bishevsky and Elinor Bengayev<br>
+Names:  Elinor Bengayev and Denise Bishevsky<br>
 Date: 18.7.2021<br>
 Intro:<br>
-This project is the final project in the "Introduction to Machine Learning" course at the Faculty of Engineering,
-as a part of the BS.c degree 'Sciences for High-Tech' in Tel Aviv University.
-In this project we received a large data set file containing various features on bookings made in hotels and labels whether the booking was canceled or not.
-The aim of the project is to predict using machine learning models whether a particular order may be canceled or not.
+This project is the final project of the "Introduction to Machine Learning" course at the Faculty of Engineering in Tel Aviv University, as a part of the BS.c degree 'Digital Sciences for High-Tech'.
+In this project we received a large data set file containing various features (known and anonymous) of hotels reservations and a label for each one of whether the reservation was canceled.
+The aim of the project is to predict whether a given reservation will be canceled or not using machine learning models.
+The project contains visualisition, data exploration, pre-processing, running differnt models and evalute them in order to choose the best performing one.   
